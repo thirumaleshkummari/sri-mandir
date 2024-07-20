@@ -1,0 +1,63 @@
+.home-container{
+    background-color: rgb(244, 206, 212);
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.offer-img{
+    width: 500px;
+}
+
+.no-one-container{
+    display: flex;
+    align-items: center;
+}
+
+.no-one-badge{
+    width: 50px;
+}
+
+.no-one-msg{
+    color: rgb(118, 101, 3);
+    font-family: "Roboto";
+    font-size: 20px;
+
+}
+
+.text-container{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    margin-right: 20px;
+}
+
+.text{
+    color: rgb(178, 152, 3);
+}
+
+.get-in-store-logo{
+    width: 200px;
+}
+
+.explore-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.explore-list-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.list-item{
+    list-style-type: none;
+    margin: 40px;
+    width: 100px;
+}

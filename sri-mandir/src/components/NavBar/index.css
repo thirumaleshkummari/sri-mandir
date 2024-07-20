@@ -1,0 +1,68 @@
+.nav-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid grey;
+    background-color: #ffffff;
+    width: 100%;
+}
+
+.nav-mid-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin-right: 50px;
+    margin-left: 50px;
+    
+}
+
+
+.logo-and-title{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+.sri-mandir-logo{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+
+.list-container{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    list-style-type: none; 
+}
+
+.list-items{
+    color: black;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.title{
+    color: black;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.form-control{
+    padding: 10px;
+    border-radius: 5px;
+    color: black;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 15px;
+}
